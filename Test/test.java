@@ -35,7 +35,7 @@ public void testEanVerificaCodiceNonValido(){
 
 @Test
 public void testEanVerificaCodiceLunghezzaNonValida(){
-    ean13.setCodice("3614273");
+    ean13.setCodice("3613622");
     assertFalse(ean13.verificaCodice());
 }
 
