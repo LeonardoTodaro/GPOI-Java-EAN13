@@ -1,5 +1,10 @@
 public class EAN13 {
     
+    /*
+     * @author Leonardo Todaro
+     * @versuibe 2.0
+     * @since 10/05/2023
+     */
     private String codice;
 
    
